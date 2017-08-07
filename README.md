@@ -53,7 +53,7 @@ Manage web content, digital media, plug-ins, maintenance on a WordPress website.
 
 Managed all aspects of the company’s digital content and marketing campaigns including social media, membership management and survey/polling.
 
-### [American Psychological Association] 
+### [American Psychological Association](http://www.apa.org/) 
 **Public Affairs Manager: December 1999 &mdash; October 2010**
 
 Supervised staff, consultants and vendors and managed the publicity efforts for the association’s research journals (59 journals) and the annual convention (12,000 attendees and more than 100 press and social media representatives).  
