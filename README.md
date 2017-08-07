@@ -33,7 +33,7 @@ Areas of Expertise
 Experience
 ----------
 
-###[The Firehose Project - Remote Agile Team]
+### [The Firehose Project - Remote Agile Team]
 **Junior Developer/Ambassador: November 2016 - February 2017**
 
 - Worked on a team of 5 developers to build a Ruby on Rails/JavaScript chess application that   fully enforces the rules of the game. [GitHub Repo]: https://github.com/the-cheaters/up-all-knight
@@ -43,28 +43,28 @@ Experience
 - Used Pusher (Websocket) to support real-time piece-move updates to the game between two players and used CodeShip and Coveralls for continuous integration and deployment. 82 percent coverage
 - Used Trello as an Agile board and Slack to ensure great communication between all developers.
 
-###[Bodhi Clinic] 
+### [Bodhi Clinic] 
 **Webmaster: September 2015 &mdash; Present**
 
 Manage web content, digital media, plug-ins, maintenance on a WordPress website. Manage social media strategy.
 
-###[PosiTek.net, LLC] 
+### [PosiTek.net, LLC] 
 **Director, Digital Media: June 2012 &mdash; January 2015**
 
 Managed all aspects of the company’s digital content and marketing campaigns including social media, membership management and survey/polling.
 
-###[American Psychological Association] 
+### [American Psychological Association] 
 **Public Affairs Manager: December 1999 &mdash; October 2010**
 
 Supervised staff, consultants and vendors and managed the publicity efforts for the association’s research journals (59 journals) and the annual convention (12,000 attendees and more than 100 press and social media representatives).  
 
 Education
 ----------
-• The Firehose Project    (2016)
+- The Firehose Project    (2016)
 Certificate: Full-Stack Software Engineering
-• Institute for Integrative Nutrition   (2016)
+- Institute for Integrative Nutrition   (2016)
 Certificate: Health Coach/Integrative Nutrition
-• American University   (2013)
+- American University   (2013)
 Master’s Digital Media
-• Johnson State College (1984)
+- Johnson State College (1984)
 Bachelor’s English/Psychology
