@@ -80,6 +80,8 @@ Managed web content, digital media (images/slides), WordPress plug-ins/themes to
 ### [The Firehose Project - Remote Agile Team](https://thefirehoseproject.com/)
 **Junior Developer/Ambassador: January 2017 &mdash; March 2017**
 
+- Helped students troubleshoot code, build applications in Ruby/Rails
+
 
 ### [The Firehose Project - Remote Agile Team](https://thefirehoseproject.com/)
 **Junior Developer Apprentice: November 2016 &mdash; January 2017**
