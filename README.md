@@ -69,7 +69,7 @@ Managed web content, digital media (images/slides), WordPress plug-ins/themes to
 - Used SEO, Google Analytics to optimize website and increased traffic, sales by 50%.
 - Strategized and wrote/edited topics for blogs, articles and research monthly
 
-# JUNIOR DEVELOPER APPRENTICESHIPS  2016 – 2017
+# JUNIOR DEVELOPER APPRENTICESHIPS  
 
 ### [Ruby Thursday](https://rubythursday.com/) 
 **Junior Web Developer Intern: January 2017 &mdash; December 2019**
